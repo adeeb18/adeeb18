@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Adeeb Rashid
+# 👋 Hi, I’m Adeeb Rashid
 - 👀 I’m looking for software engineering intership opportunities anywhere in the US!
 - 🌱 I’m currently learning about Android app development for biomedical applications
 - 📫 Email me at adeeb.rashid@ufl.edu

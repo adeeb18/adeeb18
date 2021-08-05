@@ -16,8 +16,7 @@
   Let's get in touch!<br/>
 </h2>
 
-<p align='center'>
-  
+<p align='center'>             
   <a href="www.linkedin.com/in/adeebrashid">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -36,26 +35,19 @@
   📫 Email me at adeeb.rashid@ufl.edu
 </p>
 
-<!--
-  [![alt text][4.1]][4] 
-  [![alt text][1.1]][1] 
-  [![alt text][2.1]][2] 
-  [![alt text][3.1]][3] 
-  [![alt text][5.1]][5]
- -->
-
 <h2 align='center'>
-  My favorite languages<br/>
+           My favorite languages<br/>
 </h2>
 
 <p align='center'>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
-  <br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeeb18&show_icons=true&count_private=true&theme=dark" width="350"></a>
-  <br/>
-  kinda ironic lol^
+           <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+           <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+           <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+           <br/>  
+           <br/>
+           <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeeb18&show_icons=true&count_private=true&theme=dark" width="350"></a>
+           <br/>
+           kinda ironic lol^
 </p>
 
 
@@ -92,6 +84,14 @@
 [11.2]: https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white
 
 <!-- Github Badges -->
-[1.3]: https://github-readme-stats.vercel.app/api/top-langs/?username={username
+[1.3]: https://github-readme-stats.vercel.app/api/top-langs/?username={username}
+
+<!--
+  [![alt text][4.1]][4] 
+  [![alt text][1.1]][1] 
+  [![alt text][2.1]][2] 
+  [![alt text][3.1]][3] 
+  [![alt text][5.1]][5]
+ -->
 
 <!-- Credit to Alexandresanlim for the social Icons!! https://github.com/alexandresanlim/Badges4-README.md-Profile -->

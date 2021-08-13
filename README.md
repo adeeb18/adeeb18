@@ -54,7 +54,7 @@
 </p>
 
 <p align='center'>
-           Date began : 8/3/2021
+           Date began : 8/8/2021
 </p>
 
 <!-- links to your social media accounts -->

@@ -47,7 +47,6 @@
            <br/>
            <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adeeb18&show_icons=true&count_private=true&theme=dark" width="350"></a>
            <br/>
-           kinda ironic lol^
 </p>
 
 

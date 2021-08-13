@@ -17,9 +17,6 @@
 </h2>
 
 <p align='center'>             
-  <a href="www.linkedin.com/in/adeebrashid">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/adeeb_r_/?hl=en">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
@@ -31,6 +28,9 @@
   </a>&nbsp;&nbsp;
   <a href="adeebr18@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/adeebrashid">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;<br/>
   📫 Email me at adeeb.rashid@ufl.edu
 </p>
@@ -50,7 +50,7 @@
 </p>
 
 <p align='center'>
-           Work-In Progress Website: adeeb.rashid.github.io
+           Work-In Progress Website: https://adeeb.rashid.github.io
 </p>
 
 <p align='center'>

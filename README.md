@@ -50,7 +50,7 @@
 </p>
 
 <p align='center'>
-           Work-In Progress Website: https://adeeb.rashid.github.io
+           Work-In Progress Website: https://adeeb18.github.io
 </p>
 
 <p align='center'>

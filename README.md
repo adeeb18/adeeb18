@@ -8,7 +8,7 @@
 
 <p align='center'>
   👀 I’m looking for software engineering intership opportunities anywhere in the US<br/>
-  🌱 I’m currently learning about Android app development with Java in Android Studio<br/>
+  🌱 I’m currently learning about Android app development with Java in Android Studio. View a demo in my SleepStudy repository!<br/>
   :notes: In my free time I love playing the guitar and the piano!
 </p>
 
